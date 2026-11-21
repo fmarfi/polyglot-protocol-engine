@@ -3,7 +3,7 @@ project:
   title:        "Polyglot Protocol Engine"      # Project title
   author:       "Asim Furkan Ilhan"      # Your name
   discord:      "pashafi"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Creating a system to communicate through multiple protocols."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:        60000000    # Clock frequency in Hz (or 0 if not applicable)
 
